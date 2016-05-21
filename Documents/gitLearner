@@ -7,3 +7,4 @@
 HEAD 指向当前的版本，因此git允许我们在版本之间穿梭，使用命令git reset --hard <commit id>
 穿梭前，用git log查看提交历史，以确定找回哪个版本
 要重返未来，用git reflog查看命令历史，以确定要回到哪个版本
+git 拥有工作区 暂存区 和 master三个部分 修改了没有add的在工作区，add之后放到暂存区commit之后放到分支中去
