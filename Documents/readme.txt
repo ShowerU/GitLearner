@@ -4,4 +4,4 @@ Git is a free software.
 I am learning git.
 first change.
 learn the differernt of master and stage
-
+my stupid boss is still prefer svn.
