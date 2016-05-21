@@ -2,4 +2,6 @@
 添加文件到仓库：
 	1.git add <file1> <file2> ..
 	2.git commit -m "添加说明"
+要随时掌握工作区的状态使用命令 git status
+查看修改过的内容 git diff
 
